@@ -19,12 +19,12 @@ const RESOURCES = {
 "assets/NOTICES": "6dda680bd673b98eb04516283ec9bc7f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "2437b76747f1205f95901d4d0e51aedd",
-"/": "2437b76747f1205f95901d4d0e51aedd",
-"main.dart.js": "e011c3e749817723219bda99e481c85d",
-"manifest.json": "7d0e651edd2bfd5db05400967d32f4dd",
+"flash-cards.png": "5de11277dfcaf301c5d0dae347f6fd7a",
+"icons/flash-cards.png": "5de11277dfcaf301c5d0dae347f6fd7a",
+"index.html": "579f05fa3419fadf94ae5545156de6bb",
+"/": "579f05fa3419fadf94ae5545156de6bb",
+"main.dart.js": "54ca4ee1c5ff1132d65261c41ec3d3dc",
+"manifest.json": "bb20718e045ca2ac92eb7bfb70172d19",
 "version.json": "f28c12e9017666073b075946bd7b6a6e"
 };
 
